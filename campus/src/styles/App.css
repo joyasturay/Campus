@@ -1,0 +1,38 @@
+.app-container {
+  min-height: 100vh;
+  background-color: #f3f4f6;
+}
+
+.navbar {
+  background-color: #2563eb;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.navbar-content {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+.navbar-flex {
+  display: flex;
+  justify-content: space-between;
+  height: 4rem;
+}
+
+.navbar-title {
+  display: flex;
+  align-items: center;
+}
+
+.title {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: white;
+}
+
+.main-content {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem 1rem;
+}
